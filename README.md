@@ -1,2 +1,3 @@
 # fantastic-tribble
-it's a Game Name Game Puissance quatre in french
+
+"Power 4 Game, developed under the moniker 'VIVALIX12,' presents an engaging and strategic experience within the realm of Java gaming, leveraging the versatile Java Swing library for its graphical interface. This digital rendition of the classic Connect Four, also known as Puissance 4, introduces players to a battle of wits and tactics. As participants take turns strategically placing their tokens in a 6x7 grid, the objective is clear: form a row of four tokens either horizontally, vertically, or diagonally, while thwarting the opponent's attempts to achieve the same feat. 
